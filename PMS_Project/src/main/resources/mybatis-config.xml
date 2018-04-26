@@ -16,11 +16,7 @@
 
 
     <mappers>
-        <mapper resource="com/annn/HR/Mapper/HRMapper.xml"/>
-        <mapper resource="com/annn/Teaching/Mapper/TeachingMapper.xml"/>
-        <mapper resource="com/annn/consultation/Mapper/ReferMapper.xml"/>
-        <mapper resource="com/annn/Post/Mapper/PostMapper.xml"/>
-
+     
     </mappers>
 
 </configuration>
