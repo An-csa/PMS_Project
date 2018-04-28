@@ -11,5 +11,15 @@
       <user-name>root</user-name>
       <introspection-schemas>*:crm,ssm1</introspection-schemas>
     </data-source>
+    <data-source name="dataSource" uuid="1cac299f-cf92-4841-a446-28e43579f7ec">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="59aba74b-6aa3-4c3a-8757-6e60d16564f2">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
   </component>
 </project>
